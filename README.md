@@ -1,0 +1,1 @@
+This project which is done by using Power BI provides an in-depth analysis of flight delays and cancellations, focusing on key factors such as airline performance, delay causes, airport delays, and cancellation trends. The dataset includes information from various flights and airports, with a range of metrics to visualize and explore patterns in flight performance.
